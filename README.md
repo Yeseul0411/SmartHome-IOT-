@@ -1,4 +1,5 @@
 # SmartHome-IOT-
+![image](https://github.com/user-attachments/assets/dcaed7c6-310d-4ce0-921b-9250c251e2d2)
 
 <div>
   <h3>계기</h3>
