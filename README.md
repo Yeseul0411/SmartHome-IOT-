@@ -17,7 +17,21 @@
 - 도어 열림감지, 리모컨 작동, 홈CCTV, 긴급시 가스전 잠금, 멀티탭과 조명 on/off 의 "총 6가지 기능 포함"
 </div>
   <h3>기간</h3>
+<div>
+  2022.08.01 ~ 2023.05.31
+</div>
   <h3>참여인원</h3>
+<div>
+  5인 개발
+</div>
   <h3>역할</h3>
+<div>
+- Wi-Fi 연동을 위한 제어 프로그램 병합 및 Firebase 업로드(오픈소스 활용)
+  <br>
+- 전반적인 회로 설계
+</div>
   <h3>사용기술</h3>
+<div>
+WIFI통신, 센서센싱, Arduino, App Inventor, Firebase, Raspberry Pi
+</div>
 
