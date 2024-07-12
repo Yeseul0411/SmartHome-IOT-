@@ -1,5 +1,5 @@
 # SmartHome-IOT-
-![image](https://github.com/user-attachments/assets/dcaed7c6-310d-4ce0-921b-9250c251e2d2)
+![image](https://github.com/user-attachments/assets/b8b277c0-ebb1-4e1f-92f9-6427ce5d04a8)
 
 <div>
   <h3>계기</h3>
