@@ -65,7 +65,7 @@ WIFI communication, sensor sensing, Arduino, App Inventor, Firebase, Raspberry P
 </div>
 <h3>私の役割</h3>
 <div>
-- Wi-Fi連動のための制御プログラムの併合及びFirebaseアップロード(オープンソース活用)
+-センサon、offコード作成（電源タップ、led、ドアの開き感知）
 <br>
 - 全体的な回路設計
 </div>
@@ -105,7 +105,7 @@ WIFI通信、センサーセンシング、Arduino、App Inventor、Firebase、R
 </div>
   <h3>역할</h3>
 <div>
-- Wi-Fi 연동을 위한 제어 프로그램 병합 및 Firebase 업로드(오픈소스 활용)
+- 센서 on/off 코딩(멀티탭, LED, 마그네틱도어)
   <br>
 - 전반적인 회로 설계
 </div>
