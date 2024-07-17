@@ -1,4 +1,4 @@
-# SmartHome-IOT-
+# 🏠SmartHome-IOT-🏠
 ![image](https://github.com/user-attachments/assets/b8b277c0-ebb1-4e1f-92f9-6427ce5d04a8)
 <details>
   <summary>English</summary>
